@@ -4,13 +4,13 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-ant%C3%B4nio-da-silva-4367a1262/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaozin.ant/?next=%2F)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoantoniosilva&show_icons=true&bg_color=00000000)
+
 
 
 
 ## technologies I use in my day
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoantoniosilva&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoantoniosilva&layout=compact)
 <div style="display: inline-block;">
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
